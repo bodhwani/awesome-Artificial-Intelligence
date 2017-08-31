@@ -11,9 +11,10 @@
 * TENSORFLOW API
 * NATURAL LANGAUGE PROCESSING
 ```
-## TIMINGS:
+## DATE AND TIMINGS:
 
 ```sh
+17th September, 2017
 8:00 am - 2:00 pm
 (6 HOURS, Including Break)
 ```
